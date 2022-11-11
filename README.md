@@ -41,7 +41,6 @@ A aplicação vai facilitar a busca do cliente que procura mão de obra e oferec
 * react-phone-input-2
 * react-toastify
 * axios
-* chakra-ui
 
 #### Quais ferramentas serão utilizadas ?
 - Figma
@@ -50,5 +49,3 @@ A aplicação vai facilitar a busca do cliente que procura mão de obra e oferec
 - Insomnia
 - JSON Server API
 
-#### Nível estimado de complexidade:
-7/10
